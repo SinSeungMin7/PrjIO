@@ -53,7 +53,7 @@ public class Zipcode06 {
 		fr.close();
 		
 		System.out.println("부산의 부전2동 우편번호만 출력 (화면출력):" + cnt + "개");
-		
+
 		
 	}
 }
